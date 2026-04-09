@@ -1,64 +1,53 @@
-👑 Hi, I'm YuKai
+# 👑 YuKai  | Data Analysis Enthusiast
 
-🎓 Undergraduate | Applied Economics
-📊 Data Analysis Enthusiast
-💻 Python | R | SQL | SPSS
-
----
-
-🚀 About Me
-
-- 📍 Currently preparing for graduate entrance exam (Applied Economics)
-- 📈 Interested in Data Analysis / Economic Analysis / User Behavior
-- 🧠 Skilled in:
-  - Python (pandas, numpy)
-  - R (ggplot2, time series)
-  - SQL (MySQL)
-  - SPSS (ANOVA, regression, clustering)
+🎓 **Undergraduate | Applied Economics**  
+💻 Focused on **Python / R / SQL / SPSS** for data analysis  
+📊 Skilled in user behavior analysis, RFM modeling, clustering, and data visualization  
 
 ---
 
-📊 Projects
+## 🚀 About Me
 
-📌 E-commerce User Behavior Analysis
-
-- Dataset: 2.7M+ records
-- Built conversion funnel:
-  - view → add to cart → purchase
-- Performed RFM segmentation + clustering
-- Tools: Python, pandas
-
----
-
-📌 Rural Elderly Activity Survey (Chongqing)
-
-- Field survey + interviews
-- Data cleaning & analysis
-- Statistical modeling with SPSS
+- 📍 Currently preparing for **Graduate Entrance Exam (Applied Economics)**  
+- 📈 Interests: **Data Analysis, Economic Modeling, User Behavior Research**  
+- 🧠 Skills:
+  - **Python**: pandas, numpy, matplotlib, seaborn  
+  - **R**: ggplot2, tidyverse, time series  
+  - **SQL**: MySQL, data cleaning & query optimization  
+  - **SPSS**: ANOVA, regression, clustering analysis  
 
 ---
 
-📌 Industry Structure Analysis (Henan)
+## 📊 Selected Projects
 
-- Calculated:
-  - Similarity coefficient
-  - GDP deflator
-- Economic structure evaluation
+### 📌 E-commerce User Behavior Analysis
+- Dataset size: 2.7M+ records  
+- Analysis workflow: view → add-to-cart → purchase  
+- Methods: **RFM Analysis + Clustering**  
+- 🔍 Key Insights:
+  - High-value users contribute most of the revenue  
+  - Majority of users drop off at browsing stage  
+
+### 📌 Chongqing Elderly Activity Survey
+- Field survey + data cleaning  
+- Statistical modeling with **SPSS**  
+- 🎯 Objective: Analyze activity needs and behavior patterns of elderly  
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-- Python | R | SQL
-- Excel (Advanced)
-- SPSS
-- Data Visualization
+- Python | R | SQL | SPSS  
+- Excel (Advanced)  
+- Data Visualization: matplotlib, seaborn, ggplot2  
 
 ---
 
-📫 Contact Me
+## 📫 Contact Me
 
-- Email: 1342999149@qq.com
+- ✉ Email: 1342999149@qq.com  
+- 🌐 GitHub: [https://github.com/z-Yukai](https://github.com/z-Yukai)  
+
 ---
 
-⭐ “Turning data into insights.”
+⭐ *“Turning data into stories, and analysis into insights.”*
