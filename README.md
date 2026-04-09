@@ -1,16 +1,64 @@
-## Hi there 👋
+👑 Hi, I'm YuKai
 
-<!--
-**z-Yukai/z-Yukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate | Applied Economics
+📊 Data Analysis Enthusiast
+💻 Python | R | SQL | SPSS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 📍 Currently preparing for graduate entrance exam (Applied Economics)
+- 📈 Interested in Data Analysis / Economic Analysis / User Behavior
+- 🧠 Skilled in:
+  - Python (pandas, numpy)
+  - R (ggplot2, time series)
+  - SQL (MySQL)
+  - SPSS (ANOVA, regression, clustering)
+
+---
+
+📊 Projects
+
+📌 E-commerce User Behavior Analysis
+
+- Dataset: 2.7M+ records
+- Built conversion funnel:
+  - view → add to cart → purchase
+- Performed RFM segmentation + clustering
+- Tools: Python, pandas
+
+---
+
+📌 Rural Elderly Activity Survey (Chongqing)
+
+- Field survey + interviews
+- Data cleaning & analysis
+- Statistical modeling with SPSS
+
+---
+
+📌 Industry Structure Analysis (Henan)
+
+- Calculated:
+  - Similarity coefficient
+  - GDP deflator
+- Economic structure evaluation
+
+---
+
+🛠 Tech Stack
+
+- Python | R | SQL
+- Excel (Advanced)
+- SPSS
+- Data Visualization
+
+---
+
+📫 Contact Me
+
+- Email: 1342999149@qq.com
+---
+
+⭐ “Turning data into insights.”
