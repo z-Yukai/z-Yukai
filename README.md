@@ -25,7 +25,7 @@
 
 **图灵实验室**：一个 HTML 文件，在浏览器里实时解 Gray-Scott 反应扩散方程。按住画布随手一抹，就能长出珊瑚、迷宫、斑马纹。零依赖、可离线。
 
-[打开看看 →](https://github.com/z-Yukai/turing-lab) · [直接运行 index.html](https://raw.githubusercontent.com/z-Yukai/turing-lab/main/index.html)
+[▶ 在线试玩 →](https://z-yukai.github.io/turing-lab/) · [看源码 →](https://github.com/z-Yukai/turing-lab)
 
 ## 我在用
 
