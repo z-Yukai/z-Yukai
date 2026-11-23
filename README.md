@@ -1,53 +1,42 @@
-<img src="assets/hero.svg" width="100%" />
+<div align="center">
 
-我是 **Yukai**，应用经济学本科在读。喜欢用 pandas 和 SQL 把杂乱的行为日志整理成能讲清楚的结论，也喜欢做那种**双击就能跑**的小工具。
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Turning+behavior+logs+into+decisions;Funnel+%C2%B7+RFM+%C2%B7+Clustering;Reproducible+first%2C+charts+always" alt="Typing SVG" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+**Yukai** · 应用经济学本科在读，把杂乱的行为日志整理成能复现、能落地的结论。
 
-## 最近在做
+</div>
 
-[![电商用户行为分析](assets/funnel.png)](https://github.com/z-Yukai/Analysis-of-E-commerce-User-Behavior)
+## 🔭 Focus
 
-**电商用户行为分析**：276 万条真实行为日志、140 万访客，做转化漏斗、RFM 分层、K-Means 聚类和品类维度分析。
+- **转化漏斗与用户分层**：事件级、用户级双口径互相校验；RFM 规则分层 + K-Means 聚类交叉印证
+- **可复现分析**：数据不进仓库，用一键下载脚本 + 抽样样本，保证别人 clone 下来就能跑通
+- **轻量可视化工具**：单文件、零依赖、双击就能打开的那一类小工具
 
-漏斗显示瓶颈在「浏览 → 加购」（2.6%），而不是支付环节；78% 的成交用户只买过一次，前 10% 用户贡献了近一半订单。
+## 🧩 Featured Projects
 
-[看完整分析 →](https://github.com/z-Yukai/Analysis-of-E-commerce-User-Behavior) · [在线看图表](https://github.com/z-Yukai/Analysis-of-E-commerce-User-Behavior/tree/main/figs)
+| 项目 | 说明 | 技术 |
+| --- | --- | --- |
+| [Analysis-of-E-commerce-User-Behavior](https://github.com/z-Yukai/Analysis-of-E-commerce-User-Behavior) | Retailrocket 276 万条真实行为日志（140 万访客）：漏斗、RFM 分层、订单集中度、K-Means、品类维度、留存，7 张图表 | pandas · scikit-learn · matplotlib |
+| [turing-lab](https://github.com/z-Yukai/turing-lab) | 单文件浏览器反应扩散沙盒：Gray-Scott 实时求解，7 种形态、4 套配色、手指涂抹、PNG 导出 | HTML Canvas · 零依赖 · [在线试玩](https://z-yukai.github.io/turing-lab/) |
+| [liteagent](https://github.com/z-Yukai/liteagent) | 轻量 AI Agent 框架的实践笔记与示例（整理中） | Python |
 
-## 项目
+## 🧪 How I work
 
-[![图灵实验室](assets/turing.png)](https://github.com/z-Yukai/turing-lab)
+- **口径先行**：先明确「事件级」还是「用户级」再下结论，避免把加购事件数当成用户转化率
+- **先质疑再归因**：聚类跑出「只有 3 个用户的簇」，先查长尾分布，再谈业务含义
+- **结论要能落地**：每个分析都落到「哪一类商品 / 哪一段时间 / 哪一群用户该改什么」
 
-**图灵实验室**：一个 HTML 文件，在浏览器里实时解 Gray-Scott 反应扩散方程。按住画布随手一抹，就能长出珊瑚、迷宫、斑马纹。零依赖、可离线。
+## 🛠 Tech Stack
 
-[▶ 在线试玩 →](https://z-yukai.github.io/turing-lab/) · [看源码 →](https://github.com/z-Yukai/turing-lab)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,jupyter,sklearn,git,linux&perline=7" alt="Tech stack" />
+</p>
 
-## 我在用
+**分析**：pandas · numpy · scikit-learn · matplotlib　**统计**：R（ggplot2 / tidyverse）· SPSS（ANOVA / 回归 / 聚类）　**取数**：MySQL
 
-| 工具 | 用来做什么 |
-|---|---|
-| **Python** | pandas / numpy 做清洗与建模，matplotlib / seaborn 画图 |
-| **R** | ggplot2、tidyverse 做统计分析与可视化 |
-| **SQL** | MySQL 取数、宽表加工、查询优化 |
-| **SPSS** | 方差分析、回归、聚类等经典统计方法 |
+## 🐍 Contributions
 
-## 关于我
-
-- 🎓 本科在读，正在备考**应用经济学**研究生
-- 📊 关注用户行为分析、RFM 建模、聚类与转化漏斗
-- 🛠 相信「能复现的分析才有价值」：仓库里一律带下载脚本和抽样数据
-- 📍 偶尔写点小工具，把想法做成能点开就跑的页面
-
-## 联系
-
-- GitHub：[z-Yukai](https://github.com/z-Yukai)
-- 有问题欢迎开 Issue，比邮件快
-
----
-
-<sub>这个主页的排版参考了 <a href="https://github.com/alchaincyf">花叔</a> 的页面结构。</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z-Yukai/z-Yukai/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/z-Yukai/z-Yukai/output/github-snake.svg" alt="Contribution snake" />
+</picture>
