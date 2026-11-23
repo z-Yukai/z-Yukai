@@ -1,6 +1,6 @@
 <img src="assets/hero.svg" width="100%" />
 
-我是 **Yukai（张宇凯）**，应用经济学本科在读。喜欢用 pandas 和 SQL 把杂乱的行为日志整理成能讲清楚的结论，也喜欢做那种**双击就能跑**的小工具。
+我是 **Yukai**，应用经济学本科在读。喜欢用 pandas 和 SQL 把杂乱的行为日志整理成能讲清楚的结论，也喜欢做那种**双击就能跑**的小工具。
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
