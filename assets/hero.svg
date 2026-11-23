@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Yukai 张宇凯 - 应用经济学 数据分析">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#132135"/>
+      <stop offset="100%" stop-color="#1b2b45"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4cc9f0"/>
+      <stop offset="100%" stop-color="#7b61ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="1040" cy="60" r="180" fill="#4cc9f0" opacity="0.07"/>
+  <circle cx="110" cy="270" r="150" fill="#7b61ff" opacity="0.08"/>
+  <rect x="72" y="96" width="86" height="6" rx="3" fill="url(#line)"/>
+  <text x="72" y="170" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="60" font-weight="700" fill="#f8fafc">Yukai · 张宇凯</text>
+  <text x="74" y="214" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="24" fill="#9fb3c8">应用经济学 · 数据分析</text>
+  <text x="74" y="252" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="18" fill="#6b8299">用 Python 和 SQL 把行为日志整理成能讲清楚的结论</text>
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#cfe3f5">
+    <rect x="820" y="150" width="96" height="32" rx="16" fill="#1e3a5f"/>
+    <text x="868" y="171" text-anchor="middle">Python</text>
+    <rect x="928" y="150" width="72" height="32" rx="16" fill="#1e3a5f"/>
+    <text x="964" y="171" text-anchor="middle">SQL</text>
+    <rect x="1012" y="150" width="72" height="32" rx="16" fill="#1e3a5f"/>
+    <text x="1048" y="171" text-anchor="middle">R</text>
+    <rect x="820" y="196" width="96" height="32" rx="16" fill="#22314a"/>
+    <text x="868" y="217" text-anchor="middle">pandas</text>
+    <rect x="928" y="196" width="156" height="32" rx="16" fill="#22314a"/>
+    <text x="1006" y="217" text-anchor="middle">scikit-learn</text>
+  </g>
+</svg>
