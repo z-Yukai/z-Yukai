@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Turning+behavior+logs+into+decisions;Funnel+%C2%B7+RFM+%C2%B7+Clustering;Reproducible+first%2C+charts+always" alt="Typing SVG" />
+<img src="assets/typing.svg" alt="Typing SVG" />
 
 **Yukai** · 应用经济学本科在读，把杂乱的行为日志整理成能复现、能落地的结论。
 
